@@ -17,6 +17,8 @@ And more.
 
 # Results
 The results of the analysis provide insights into the performance of teams and players over the years. It also highlights some interesting trends in the IPL, such as the dominance of certain teams and players, the impact of toss on the outcome of matches, and more.
+
+# Dashboard For IPL Analysis
 ![ipl dash_1](https://user-images.githubusercontent.com/113959612/226953265-8190cf80-cecd-49d1-98f3-485c2fb76f13.PNG)
 
 # Conclusion
